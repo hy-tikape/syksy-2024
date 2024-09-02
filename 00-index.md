@@ -7,7 +7,7 @@ permalink: /
 
 _Tietokantojen perusteet_ on 5 op laajuinen tietojenkäsittelytieteen perusopintokurssi, joka esittelee suurten tietomäärien käsittelyyn liittyviä tekniikoita ja haasteita. Tutustumme kurssilla relaatiotietokantoihin ja niihin liittyvään SQL-kieleen.
 
-Syksy 2024 kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoille ja Avoimen yliopiston opiskelijoille. Ohjeet kurssisuorituksen rekisteröimiseen ilmestyvät kurssin aikana.
+Syksyllä 2024 kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoille ja Avoimen yliopiston opiskelijoille. Ohjeet kurssisuorituksen rekisteröimiseen ilmestyvät kurssin aikana.
 
 Ohjausta järjestetään [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. Lisäksi järjestetään pajaohjausta, jonka aikataulu ilmoitetaan myöhemmin.
 
